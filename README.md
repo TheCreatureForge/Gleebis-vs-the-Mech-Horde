@@ -31,3 +31,13 @@ This image may take a few minutes to refresh.
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+WELCOME TO GLEEBIS VS THE MECHANICAL HORDE!
+This is a twin stick shooting roguelike! The controls are WASD to move our player Gleebis and IJKL to rotate and determine where he'll shoot.
+Space Bar/Q to attack
+E - will use abilities that you have obtained
+U - will cycle through weapons you have!
+O - will interact with the shop items and allow the player to move onto the next wave!
+
+Good luck in trying to survive the mechanical horde and looking for hidden easter eggs within this Creature Forge project!
